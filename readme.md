@@ -9,7 +9,7 @@ Skills
 ![Typescript](https://img.shields.io/badge/Typescript-007acc)
 ![Java](https://img.shields.io/badge/Java-f89820)
 ![cpp](https://img.shields.io/badge/C++-007acc)
-![csharp](https://img.shields.io/badge/C#-007acc)
+![csharp](https://img.shields.io/badge/CSharp-007acc)
 and more I'm just to lazy to put them here anyways there on my website most likely
 
 Projects 
